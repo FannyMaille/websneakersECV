@@ -1,0 +1,4 @@
+2022-05-08T17:47:39+00:00 CRITICAL require_once(): Failed opening required '/home/leclosdek/websneakers/wp-admin/includes/class-wp-site-health.php' (include_path='.:/usr/local/php7.2/lib/php') dans /home/leclosdek/websneakers/wp-settings.php à la ligne 569
+
+2022-05-08T17:48:00+00:00 CRITICAL require_once(): Failed opening required '/home/leclosdek/websneakers/wp-admin/includes/class-wp-site-health.php' (include_path='.:/usr/local/php7.2/lib/php') dans /home/leclosdek/websneakers/wp-settings.php à la ligne 569
+
